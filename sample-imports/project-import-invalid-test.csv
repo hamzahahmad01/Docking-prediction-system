@@ -1,0 +1,4 @@
+Project Number,Project Title,Employee ID,Sponsored By,Start Date,Completion Date,Project Cost,Status
+BAD-IMP-20260630-01,Invalid Employee Check,EMP999,QAZ,2026-07-10,2026-12-20,550000,Ongoing
+BAD-IMP-20260630-02,Invalid Agency Check,EMP003,UNKNOWN_AGENCY,2026-07-10,2026-12-20,550000,Completed
+BAD-IMP-20260630-03,Invalid Date And Cost Check,EMP003,QAZ,31/13/2026,2026-12-20,abc,Finished
